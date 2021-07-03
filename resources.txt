@@ -1,0 +1,39 @@
+-- Web systems --
+
+
+
+-- JavaScript --
+
+https://javascript.ru/, JS learning, 8
+
+https://medium.com/devschacht/javascript-typeof-43591ab15bef, Types checking: typeof usage, 2
+
+-- jQuery --
+
+https://habr.com/ru/post/38208/, Jquery for beginners, 2
+
+-- TypeScript --
+
+https://www.typescripttutorial.net/typescript-tutorial/typescript-type-guards/, Typescript Docs Eng, 8
+
+https://habr.com/ru/post/346718/, Object type desc rus, 0.25
+
+https://habr.com/ru/company/macloud/blog/557996/, Practical Guide, 2
+
+https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html, Migrate from JS, 0.5
+
+https://www.typescriptlang.org/docs/handbook/dom-manipulation.html, DOM, 0.25
+
+https://www.typescriptlang.org/docs/handbook/modules.html, Modules intro, 0.5
+
+-- NodeJS --
+
+https://si-dev.com/ru/blog/ubuntu-how-to-install-nodejs-nvm-and-yarn, Install NodeJS, 0.5
+
+https://habr.com/ru/company/timeweb/blog/541452/, NPM & NVM, 0.5
+
+-- Angular --
+
+https://angular.io/guide/setup-local, Angular Tutorials Eng (try or big tutorial depending on time), 8
+
+https://angdev.ru/doc/angular-templates/, Angular Docs Rus, 0
