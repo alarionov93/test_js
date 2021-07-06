@@ -1,16 +1,24 @@
 -- Web systems --
 
-
+# //Web history, //HTTP proto, //show nc and etc. 
+!similar small server and client 
+!show/ sessions and cookies 
+!Forms sending without js old style
 
 -- JavaScript --
 
-https://javascript.ru/, JS learning, 8
+-> https://javascript.ru/, JS learning, 8
 
 https://medium.com/devschacht/javascript-typeof-43591ab15bef, Types checking: typeof usage, 2
+
+https://habr.com/ru/post/244641/, js assembly, 1
 
 -- jQuery --
 
 https://habr.com/ru/post/38208/, Jquery for beginners, 2
+
+https://jquery.com, Jquery docs tutorial needed, 4
+! server on nodejs and ajax request on it as work 
 
 -- TypeScript --
 
